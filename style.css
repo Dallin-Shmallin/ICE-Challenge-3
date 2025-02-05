@@ -1,0 +1,14 @@
+*{
+    border-style: border-box;
+    padding: 0;
+}
+
+
+footer{
+    background-color: grey;
+    border: 25px solid grey;
+}
+footer img{
+    border-radius: 50%;
+    border: 25 px solid blue;
+}
